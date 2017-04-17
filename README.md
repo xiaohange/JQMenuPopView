@@ -1,8 +1,7 @@
 # JQMenuPopView
 仿Tumblr弹出视图发音频、视频、图片、文字的视图，接入方便。高仿Tumblr,tumblr-popview.
-<<<<<<< HEAD
 
-![]()
+![](https://github.com/xiaohange/JQMenuPopView/blob/master/demo.gif?raw=true)
 
 ## Instalation
 
@@ -28,8 +27,6 @@ UIWindow *window = [UIApplication sharedApplication].keyWindow;[window addSubvie
 }
 ```
 
-=======
->>>>>>> 87a5781cf702cdba82f653f949f4b6b5070714cf
 ## Star
 >iOS开发者交流群：446310206 喜欢就❤️❤️❤️star一下吧！你的支持是我更新的动力！ Love is every every every star! Your support is my renewed motivation!
 
